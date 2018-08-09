@@ -1,5 +1,7 @@
 # korean-chinese-groups-in-japan 소개 
 
+[![Join the chat at https://gitter.im/korean-chinese-japan/Lobby](https://badges.gitter.im/korean-chinese-japan/Lobby.svg)](https://gitter.im/korean-chinese-japan/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > all contents will be described in Korean or Chinese or Japanese 
 >
 > 모든 내용은 한글, 중문, 일어로 편집되며 markdown형식으로 편집됩니다. 
